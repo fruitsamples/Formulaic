@@ -36,24 +36,24 @@ to a VoiceOver user.
 ===========================================================================
 RELATED INFORMATION:
 
-Accessibility Programming Guide for iPhone OS, June 2009
+Accessibility Programming Guide for iPhone OS 
 http://developer.apple.com/iPhone/library/documentation/UserExperience/Conceptual/iPhoneAccessibility/Accessibility_on_iPhone/Accessibility_on_iPhone.html
 
-Testing the Accessibility of Your iPhone Application, June 2009
+Testing the Accessibility of Your iPhone Application 
 http://developer.apple.com/iPhone/library/documentation/UserExperience/Conceptual/iPhoneAccessibility/Testing_Accessibility/Testing_Accessibility.html
 
-iPhone User Guide for iPhone OS 3.0 Software, June 2009
+iPhone User Guide for iPhone OS 3.1 Software 
 http://manuals.info.apple.com/en_US/iPhone_User_Guide.pdf
 
 ================================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X v10.5.7, Xcode 3.1, iPhone OS 3.0
+iOS SDK 4.0
 
 ================================================================================
 RUNTIME REQUIREMENTS:
 
-Mac OS X v10.5.7, iPhone OS 3.0
+iPhone OS 3.2 or later
 
 ================================================================================
 PACKAGING LIST:
@@ -102,4 +102,4 @@ Formulaic-Info.plist
 The Info plist file.
 
 ================================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
